@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ONE SPARK",
+  "base_artist": "TWICE",
+  "createdAt": "2026-03-10T12:25:23.704118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ONE SPARK",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_ONE_SPARK_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONE SPARK",
+      "artist": "TWICE (트와이스)",
+      "has_synced": false,
+      "path": "select/02_ONE_SPARK_TWICE_(트와이스).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ONE SPARK",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_ONE_SPARK_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ONE SPARK (English ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_ONE_SPARK_(English_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ONE SPARK (English ver.)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/05_ONE_SPARK_(English_ver.)_TWICE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ONE SPARK (House ver.)",
+      "artist": "TWICE feat. Lee Woo hyun & earattack",
+      "has_synced": true,
+      "path": "select/06_ONE_SPARK_(House_ver.)_TWICE_feat._Lee_Woo_hyun_&_earattack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ONE SPARK (House ver.)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/07_ONE_SPARK_(House_ver.)_TWICE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ONE SPARK (Instrumental)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/08_ONE_SPARK_(Instrumental)_TWICE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ONE SPARK (R&B ver.)",
+      "artist": "TWICE feat. Lee Woo hyun & earattack",
+      "has_synced": true,
+      "path": "select/09_ONE_SPARK_(R&B_ver.)_TWICE_feat._Lee_Woo_hyun_&_earattack.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ONE SPARK (R&B ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/10_ONE_SPARK_(R&B_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ONE SPARK (Rave ver.)",
+      "artist": "TWICE feat. Eniac",
+      "has_synced": true,
+      "path": "select/11_ONE_SPARK_(Rave_ver.)_TWICE_feat._Eniac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ONE SPARK (Rave ver.)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/12_ONE_SPARK_(Rave_ver.)_TWICE.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ONE SPARK (Tropical ver.)",
+      "artist": "TWICE feat. earattack",
+      "has_synced": true,
+      "path": "select/13_ONE_SPARK_(Tropical_ver.)_TWICE_feat._earattack.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ONE SPARK (Tropical ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/14_ONE_SPARK_(Tropical_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ONE SPARK",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/15_ONE_SPARK_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ONE SPARK (English ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/16_ONE_SPARK_(English_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ONE SPARK | FlexyOkay.com",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/17_ONE_SPARK___FlexyOkay.com_TWICE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE SPARK",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_SPARK_TWICE.txt"
+    }
+  ]
+}
